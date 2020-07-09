@@ -20,7 +20,7 @@ Several logo variations are provided for different purposes. The logo in blue an
 ## Color Palette
 Our primary color is Blue and the dark grey. This is to create a premium digitally, technical feel as the tenten’s professional and the driving innovation faster.
 
-![#0F64FAff](https://placehold.it/100x50/0F64FAff/000000?text=+) `#0F64FAff` / `RGB 15, 100, 250`
+![#1161F9ff](https://placehold.it/100x50/1161F9ff/000000?text=+) `#1161F9ff` / `RGB 15, 100, 250`
 
 ![#2E313Aff](https://placehold.it/100x50/2E313Aff/000000?text=+) `#2E313Aff` / `RGB 46, 49, 58`
 
