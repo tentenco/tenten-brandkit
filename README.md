@@ -4,6 +4,7 @@
 The Tenten brand consists of the main Tenten logo, and several variations which are associated with different projects.
 
 ### Main Tenten Logos
+![](https://s3.tenten.co/share/tenten-logo-canva-blue.png)
 There are two Tenten logos. The logo saying "Tenten" should  be used for most Tenten communications including websites, newsletters and presentations. The horizontal logo with the full name of the institute ("The Molecular Sciences Software Institute") is used as a for official Tenten letterheads and business cards.
 
 <center>
