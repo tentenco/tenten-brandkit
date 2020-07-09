@@ -27,6 +27,8 @@ Our primary color is Blue and the dark grey. This is to create a premium digital
 ## Typography
 Tenten uses the fonts "Chalet" and "Cerebri Sans". Chalet is used for logos and Cerebri Sans is used for text on our website and designs.
 
+![](https://s3.tenten.co/share/Frame-621.png)
+
 
 
 
