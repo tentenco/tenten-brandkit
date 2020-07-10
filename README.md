@@ -36,3 +36,5 @@ Tenten uses the fonts "Chalet" and "Cerebri Sans". Chalet is used for logos and 
 
 
 
+## Tenten Brand Guide
+The Tenten Brand Guide can be found [here](https://github.com/tentenco/tenten-brandkit/blob/master/assets/Styleguide_pdf/tenten_styleguide.pdf).
